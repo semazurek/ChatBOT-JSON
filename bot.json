@@ -1,0 +1,44 @@
+[
+  {
+    "response_type": "powitanie",
+    "user_input": ["witam", "cześć", "czesc", "dobry", "hej", "siema", "siem", "hejo"],
+    "bot_response": "Witam!",
+    "required_words": []
+  },
+  {
+    "response_type": "pożegnanie",
+    "user_input": ["do zobaczenia", "dowidzenia", "pa", "żegnam", "nara", "nq" ,"zobaczenia", "do widzenia"],
+    "bot_response": "Do zobaczenia !",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["czy","działa"],
+    "bot_response": "Działa, działa jak najbardziej :)",
+    "required_words": ["działa"]
+  },
+  {
+    "response_type": "miło",
+    "user_input": ["nice", "miło", "cie", "ciebie", "poznać"],
+    "bot_response": "Przyjemność po mojej stronie!",
+    "required_words": ["miło", "poznać"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["zwrot", "otrzymać", "dostać"],
+    "bot_response": "Nie oferujemy zwrotów",
+    "required_words": ["zwrot", "jak"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["jak", "sie", "masz", "tam"],
+    "bot_response": "Dobrze ! Dzięki że pytasz.",
+    "required_words": ["jak", "sie", "masz"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["zabawa", "zabawnie", "fajnie","haha", "ha", "hehe", "he", "xD", "xd"],
+    "bot_response": "Też się świetnie bawię :)",
+    "required_words": []
+  }
+]
