@@ -1,4 +1,9 @@
 # ChatBOT-JSON
+
+<a href="#"><img src="https://img.shields.io/badge/RELEASE-v1.0-orange?style=for-the-badge&"></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href="https://www.buymeacoffee.com/semazurek" target="_blank"><img src="https://img.shields.io/badge/buymeacoffee-27ae60?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
+
 GUI ChatBOT Python - JSON PL-Polski: Wykorzystuje bazę pytań z pliku .json
 
 ## Jak wygląda (GUI)
